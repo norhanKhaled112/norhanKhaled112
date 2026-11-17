@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Norhan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Learner&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Norhan&fontSize=70&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+clean+and+fast+web+interfaces;React+%7C+JavaScript+%7C+Tailwind;Learning+Cloud+%26+DevOps;Turning+ideas+into+deployed+products" alt="Typing SVG" />
+### Frontend Developer · Cloud & DevOps Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+clean+web+interfaces;React+and+JavaScript;Learning+Cloud+and+DevOps" alt="Typing SVG" />
 
 </div>
 
@@ -44,23 +46,10 @@ Computer Science student focused on building polished frontend experiences with 
 
 ## 🌱 Currently Exploring
 
-```text
-☁️  Cloud Computing    →  deploying and scaling real apps
-⚙️  DevOps             →  CI/CD and automation workflows
-🌐  Networking         →  how systems talk to each other
-🖥️  Servers            →  hosting and configuration
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=norhankhaled112&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norhankhaled112&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-
-</div>
+- ☁️ **Cloud Computing**: deploying and scaling real apps
+- ⚙️ **DevOps**: CI/CD and automation workflows
+- 🌐 **Networking**: how systems talk to each other
+- 🖥️ **Servers**: hosting and configuration
 
 ---
 
@@ -71,6 +60,6 @@ Computer Science student focused on building polished frontend experiences with 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norhan-khaled-81bb97332)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norhank644@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
